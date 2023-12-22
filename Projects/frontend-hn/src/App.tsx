@@ -1,0 +1,11 @@
+import "./App.css";
+import "./components/Sidenav";
+import Sidenav from "./components/Sidenav";
+
+export default function App() {
+  return (
+    <>
+      <Sidenav />
+    </>
+  );
+}
