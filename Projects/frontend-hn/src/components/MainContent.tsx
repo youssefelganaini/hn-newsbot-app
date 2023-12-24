@@ -5,7 +5,7 @@ export default function MainContent() {
     <>
       <div className="card min-height-100vh m-1" style={{ width: "100%" }}>
         <div className="card-body">
-          <h5 className="card-title">Company</h5>
+          <h4 className="card-title">Company</h4>
           <h6 className="card-subtitle mb-2 text-body-secondary">
             Company Mission
           </h6>
