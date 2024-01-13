@@ -1,0 +1,10 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  color: #eae;
+}
+
+button:hover {
+  background-color: #6c757d;
+}
