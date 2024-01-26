@@ -1,7 +1,6 @@
 # Hacker News Newsbot Application
 
 ## Description
-
 This newsbot helps you land on Hacker News.  
 
 Here is the basic rundown of the functionality:
@@ -16,6 +15,8 @@ Here is the basic rundown of the functionality:
 
 To find out why this works, read the article below.
 
-## Acknowledgements
+## Status
+As of now, the backend is running and deployed at Corbado. Right now I'm building the frontend as a fun side-project to also have a dashboard with a clear overview and mabye a built-in integration of the OpenAI API to have all you need in a single place.
 
+## Acknowledgements
 Insights and parts of the source code based on article + repo I found in this article on Indie Hackers: https://www.indiehackers.com/post/how-to-hack-hacker-news-and-consistently-hit-the-front-page-56b4a04e12
